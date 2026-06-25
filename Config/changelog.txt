@@ -1,0 +1,14 @@
+October 21st, 2020
+ - Added Abigail Breslin, Alizee, Ana Ivanovic, Arya Fae, Bar Refaeli, Demi Rose Mawby, Devon Aoki, Ellie Eilish, Evelyn Claire, Haley Bennett, Joan Chen, Jourdan Dunn, Julianne Hough, Kacey Musgraves, Kendra Roll, Kenzie Madison, Kenzie Reeves, Lake Bell, Lara Flynn Boyle, Laura Dern, Leifang, Lena Katina, Lights Poxleitner, Madchen Amick, Martina Hingis, Mia Wasikowska, Nekane, Nicole Scherzinger, Paris Berelc, Peggy Lipton, Rebecca Black, Rebecca Ferguson, Samantha Barks, Sammi Hanratty, Sherilyn Fenn, Sheryl Lee, Sienna Guillory, Stella Hudgens, Stella Maxwell and Stoya
+
+October 5th, 2020
+ - Added changelog
+ - Refactored instructions screen, gallery
+ - Updated tournament mode with more sizes, introduction gallery and support for larger brackets in ending screen
+ 
+Since August 24th, 2020
+ - Refactored code for simplicity and speed
+ - Minor bug fixes and feature additions
+ - Added tournament mode
+ - Changed harem mode to select one of four instead of Sudoku
+ - Added around 234 characters

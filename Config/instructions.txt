@@ -1,0 +1,24 @@
+Navigation:
+1. Restart a game or return to the main menu by using buttons in the top-left.They will always be visible.
+2. Sometimes, you can undo your moves by using the button in the top-right.
+3. Sometimes, informational text will appear in the middle of that top navigation pane, so watch out for that.
+4. When you middle-click pictures, it will open up the character's URL.
+
+Settings:
+1. Filter multiple tags by separating them with a comma. e.g.real, actress, musician
+2. If you delete your cookies and temporary internet files, you may lose any saved settings.
+3. If you use "Incognito Mode" or "Private Browsing", This game will not save any settings to your web browser.
+4. You might be able to break certain games by having too few active characters or actions.
+
+Games:
+1. The guessing game gives you 10 seconds to start, decrements by 0.5 seconds per correct answer until a minimum of 2.0 seconds.
+2. Sudoku is fun, isn't it? I'm pretty happy with that one.
+3. In the prison break game, you must start at the top row and end on the bottom row. Choices are limited to follow that constraint.
+4. In the encounters game, you will likely run out of points if you do not pass.
+
+Story:
+1. A wizard did it.
+2. When choosing a character, you can pick them from any point in their timeline, as long as they are over the age of 18.
+3. The default actions of "Fuck", "Hire" and "Marry" are meant to be "strictly sexual", "professional and sexual" and "romantic and sexual" respectively.
+
+Thanks for playing!

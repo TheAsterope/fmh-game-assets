@@ -1,0 +1,11 @@
+Hire Spacefleet's finest to staff your spaceship. At the end, you will choose your First Officer.
+Here are the available positions:
+First Officer;Maintains discipline among the crew.
+Security Chief;Neutralizes threats.
+Pilot;Sets course. Presses the "Go" button.
+Chief Engineer;Habitual miracle worker. Beams you up.
+Chief Medical Officer;Handy with a hypospray and a dermal regenerator.
+Science Officer;Scans stuff. Says "Fascinating!"
+Diplomat;Negotiates and spreads goodwill to alien races.
+Bartender;Listens and supplies the prune juice.
+Redshirt;I hope you're not too attached to this character....
